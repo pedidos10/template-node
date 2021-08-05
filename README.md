@@ -1,2 +1,2 @@
-# template-node
+# Template nodejs
 Template for all nodejs applications with typescript, eslint, prettier, editorconfig, etc...
